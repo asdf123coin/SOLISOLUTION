@@ -3,7 +3,7 @@
  * @title ... Token Contract
  * @dev Implements a token with a tax and burn mechanism on transfers.
  */
-contract SaoriAI is ERC20, ReentrancyGuard, Ownable {
+contract ... is ERC20, ReentrancyGuard, Ownable {
     using SafeMath for uint256;
 
     // ... [Otras declaraciones y variables]
