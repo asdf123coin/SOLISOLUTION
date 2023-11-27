@@ -38,6 +38,4 @@ contract SaoriAI is ERC20, ReentrancyGuard, Ownable {
 
         return true;
     }
-
-    // ... [Otras funciones]
 }
